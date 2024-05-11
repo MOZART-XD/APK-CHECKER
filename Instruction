@@ -1,0 +1,9 @@
+Instruction
+apt update && upgrade
+pkg install git
+pkg install python
+pip install requests
+rm -rf Apk-Checker
+https://github.com/MOZART-XD/Apk-Checker
+cd Apk-Checker
+python apkcheck.py
